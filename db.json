@@ -1,39 +1,39 @@
 {
   "health": [
     {
-      "id": 2,
+      "id": 1,
       "title": "Настроение",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_0.png"
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Давление",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_1.png"
     },
     {
-      "id": 4,
+      "id": 3,
       "title": "Физическая активность",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_2.png"
     },
     {
-      "id": 5,
+      "id":4,
       "title": "Пройти тест",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_3.png"
     },
     {
-      "id": 6,
+      "id": 5,
       "title": "Добавить своё",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_4.png"
     }
   ],
   "recommends": [
     {
-      "id": 2,
+      "id": 1,
       "title": "Допустим, героям были возданы соответствующие почести",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_2/image_0.png"
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Коронованный герцог графства не стал ограничивающим фактором",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_2/image_1.png"
     },
