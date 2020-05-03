@@ -102,42 +102,42 @@
       "title": "Убеждённость некоторых оппонентов процветает, как ни в чем не бывало",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_0.png",
       "date": "03.05.2020, 12:00",
-      "rubricId" : "id1"
+      "rubricId": "id1"
     },
     {
       "id": 2,
       "title": "Эксперты утверждают, что консультация с широким активом позволила расправить крылья",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_1.png",
       "date": "03.05.2020, 12:00",
-      "rubricId" : "id2"
+      "rubricId": "id2"
     },
     {
       "id": 3,
       "title": "Тяжёлое машиностроение - это вам не детский заливистый смех",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_2.png",
       "date": "03.05.2020, 12:00",
-      "rubricId" : "id3"
+      "rubricId": "id3"
     },
     {
-      "id":4,
+      "id": 4,
       "title": "Заголовок",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_3.png",
       "date": "03.05.2020, 12:00",
-      "rubricId" : "id4"
+      "rubricId": "id4"
     },
     {
       "id": 5,
       "title": "Заголовок",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png",
       "data": "03.05.2020, 12:00",
-      "rubricId" : "id5"
+      "rubricId": "id5"
     },
     {
       "id": 6,
       "title": "Заголовок",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png",
       "data": "03.05.2020, 12:00",
-      "rubricId" : "id6"
+      "rubricId": "id6"
     }
   ],
   "rubric2": [
@@ -162,8 +162,20 @@
     {
       "id": 1,
       "title": "Статистика COVID-19 в мире",
-      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_0.png",
-      "date": "03.05.2020, 12:00",
-      "rubricId" : "id1"
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_5/img_0.png",
+      "rubricId": "id1"
     },
+    {
+      "id": 2,
+      "title": "Симптомы COVID-19",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_5/img_1.png",
+      "rubricId": "id2"
+    },
+    {
+      "id": 3,
+      "title": "Профилактика COVID-19",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_5/img_2.png",
+      "rubricId": "id3"
+    }
+  ]
 }
