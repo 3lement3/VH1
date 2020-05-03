@@ -16,25 +16,46 @@
       "id": 2,
       "title": "Рекомендации",
       "body": "Персональные советы по улучшению Вашего здоровья",
-      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_1.png"
+      "card": [
+        {
+          "cardId": 1,
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_2/image_0.png",
+          "title": "Допустим, героям были возданы соответствующие почести"
+        },
+        {
+          "cardId": 2,
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_2/image_1.png",
+          "title": "Коронованный герцог графства не стал ограничивающим фактором"
+        },
+        {
+          "cardId": 3,
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_2/image_2.png",
+          "title": "Обитатели Арктики"
+        }
+      ]
     },
     {
       "id": 3,
       "title": "Прием лекарств",
-      "body": "Добавьте данные о своем здоровье для получения персональных рекомендаций",
-      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_2.png"
+      "picture": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
       "id": 4,
       "title": "Новости",
       "body": "Добавьте данные о своем здоровье для получения персональных рекомендаций",
-      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_3.png"
+      "picture": ""
     },
     {
       "id": 5,
       "title": "Образование",
       "body": "Добавьте данные о своем здоровье для получения персональных рекомендаций",
-      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_4.png"
+      "picture": ""
     }
   ]
 }
