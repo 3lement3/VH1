@@ -5,11 +5,26 @@
       "title": "Сегодня",
       "body": "Добавьте данные о своем здоровье для получения персональных рекомендаций",
       "picture": [
-        "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_0.png",
-        "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_1.png",
-        "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_2.png",
-        "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_3.png",
-        "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_4.png"
+        {
+          "cardId": 1,
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_0.png"
+        },
+        {
+          "cardId": 2,
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_1.png"
+        },
+        {
+          "cardId": 3,
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_2.png"
+        },
+        {
+          "cardId": 4,
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_3.png"
+        },
+        {
+          "cardId": 5,
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_4.png"
+        }
       ]
     },
     {
@@ -37,12 +52,27 @@
     {
       "id": 3,
       "title": "Прием лекарств",
-      "picture": [
-        "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_0.png",
-        "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_1.png",
-        "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_2.png",
-        "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_3.png",
-        "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png"
+      "card": [
+        {
+          "carId": 1,
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_0.png"
+        },
+        {
+          "carId": 2,
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_1.png"
+        },
+        {
+          "carId": 2,
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_2.png"
+        },
+        {
+          "carId": 3,
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_3.png"
+        },
+        {
+          "carId": 4,
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png"
+        }
       ]
     },
     {
