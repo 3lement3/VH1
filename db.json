@@ -1,11 +1,6 @@
 {
   "health": [
     {
-      "id": 1,
-      "title": "Сегодня",
-      "text": "Добавьте данные о своем здоровье для получения персональных рекомендаций"
-    },
-    {
       "id": 2,
       "title": "Настроение",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_0.png"
@@ -33,11 +28,6 @@
   ],
   "recommends": [
     {
-      "id": 1,
-      "title": "Рекомендации",
-      "body": "Персональные советы по улучшению Вашего здоровья"
-    },
-    {
       "id": 2,
       "title": "Допустим, героям были возданы соответствующие почести",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_2/image_0.png"
@@ -54,10 +44,6 @@
     }
   ],
   "reception": [
-    {
-      "id": 1,
-      "title": "Прием лекарств"
-    },
     {
       "id": 1,
       "title": "Лекарство",
@@ -87,69 +73,71 @@
   "rubric": [
     {
       "id": 1,
-      "title": "Новости"
-    },
-    {
-      "id": 2,
       "title": "COVID-19"
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "Санкт-Петербург"
     },
     {
-      "id": 4,
+      "id": 3,
       "title": "Россия"
     },
     {
-      "id": 5,
+      "id": 4,
       "title": "Ликбез"
     },
     {
-      "id": 6,
+      "id": 5,
       "title": "Мифы о здоровье"
     },
     {
-      "id": 7,
+      "id": 6,
       "title": "Диабет"
     }
   ],
-    "news": [
-      {
-        "id": 8,
-        "title": "Убеждённость некоторых оппонентов процветает, как ни в чем не бывало",
-        "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_0.png",
-        "data": "сегодня, 8:24"
-      },
-      {
-        "id": 9,
-        "title": "Эксперты утверждают, что консультация с широким активом позволила расправить крылья",
-        "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_1.png",
-        "data": "вчера, 19:47"
-      },
-      {
-        "id": 10,
-        "title": "Тяжёлое машиностроение - это вам не детский заливистый смех",
-        "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_2.png",
-        "data": "12.05.2020, 22:15"
-      },
-      {
-        "id": 11,
-        "title": "Заголовок",
-        "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_3.png",
-        "data": "вчера, 19:47"
-      },
-      {
-        "id": 12,
-        "title": "Заголовок",
-        "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png",
-        "data": "вчера, 19:47"
-      },
-      {
-        "id": 13,
-        "title": "Заголовок",
-        "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png",
-        "data": "вчера, 19:47"
-      }
-    ]
+  "news": [
+    {
+      "id": 1,
+      "title": "Убеждённость некоторых оппонентов процветает, как ни в чем не бывало",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_0.png",
+      "date": "03.05.2020, 12:00",
+      "rubricId" : "id1"
+    },
+    {
+      "id": 2,
+      "title": "Эксперты утверждают, что консультация с широким активом позволила расправить крылья",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_1.png",
+      "date": "03.05.2020, 12:00",
+      "rubricId" : "id2"
+    },
+    {
+      "id": 3,
+      "title": "Тяжёлое машиностроение - это вам не детский заливистый смех",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_2.png",
+      "date": "03.05.2020, 12:00",
+      "rubricId" : "id3"
+    },
+    {
+      "id":4,
+      "title": "Заголовок",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_3.png",
+      "date": "03.05.2020, 12:00",
+      "rubricId" : "id4"
+    },
+    {
+      "id": 5,
+      "title": "Заголовок",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png",
+      "data": "03.05.2020, 12:00",
+      "rubricId" : "id5"
+    },
+    {
+      "id": 6,
+      "title": "Заголовок",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png",
+      "data": "03.05.2020, 12:00",
+      "rubricId" : "id6"
+    }
+  ]
 }
