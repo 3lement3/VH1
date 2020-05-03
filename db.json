@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "health": [
     {
       "id": 1,
       "title": "Сегодня",
@@ -84,7 +84,7 @@
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png"
     }
   ],
-  "news": [
+  "rubric": [
     {
       "id": 1,
       "title": "Новости"
@@ -148,6 +148,13 @@
       "title": "Заголовок",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png",
       "data": "вчера, 19:47"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "title": "Образование",
+      "body": ""
     }
   ]
 }
