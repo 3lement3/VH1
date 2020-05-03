@@ -140,7 +140,7 @@
       "rubricId": "id6"
     }
   ],
-  "rubric2": [
+  "eduCategory": [
     {
       "id": 1,
       "title": "COVID-19"
@@ -163,19 +163,19 @@
       "id": 1,
       "title": "Статистика COVID-19 в мире",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_5/img_0.png",
-      "rubricId": "id1"
+      "eduCategory": "id1"
     },
     {
       "id": 2,
       "title": "Симптомы COVID-19",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_5/img_1.png",
-      "rubricId": "id2"
+      "eduCategory": "id2"
     },
     {
       "id": 3,
       "title": "Профилактика COVID-19",
       "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_5/img_2.png",
-      "rubricId": "id3"
+      "eduCategory": "id3"
     }
   ]
 }
