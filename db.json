@@ -78,8 +78,53 @@
     {
       "id": 4,
       "title": "Новости",
-      "body": "Добавьте данные о своем здоровье для получения персональных рекомендаций",
-      "picture": ""
+      "breadcrumb": [
+        "COVID-19",
+        "Санкт-Петербург",
+        "Россия",
+        "Ликбез",
+        "Мифы о здоровье",
+        "Диабет"
+      ],
+//      CARD_4
+      "card": [
+        {
+          "carId": 1,
+          "title": "Убеждённость некоторых оппонентов процветает, как ни в чем не бывало",
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_0.png",
+          "data": "сегодня, 8:24"
+        },
+        {
+          "carId": 2,
+          "title": "Эксперты утверждают, что консультация с широким активом позволила расправить крылья",
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_1.png",
+          "data": "вчера, 19:47"
+        },
+        {
+          "carId":3,
+          "title": "Тяжёлое машиностроение - это вам не детский заливистый смех",
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_2.png",
+          "data": "12.05.2020, 22:15"
+        },
+        {
+          "carId": 4,
+          "title": "Заголовок",
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_3.png",
+          "data": "вчера, 19:47"
+        },
+        {
+          "carId": 5,
+          "title": "Заголовок",
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png",
+          "data": "вчера, 19:47"
+        },
+        {
+          "carId": 6,
+          "title": "Заголовок",
+          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png",
+          "data": "вчера, 19:47"
+        }
+      ]
     },
     {
       "id": 5,
