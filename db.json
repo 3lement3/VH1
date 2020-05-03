@@ -3,133 +3,151 @@
     {
       "id": 1,
       "title": "Сегодня",
-      "body": "Добавьте данные о своем здоровье для получения персональных рекомендаций",
-      "picture": [
-        {
-          "cardId": 1,
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_0.png"
-        },
-        {
-          "cardId": 2,
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_1.png"
-        },
-        {
-          "cardId": 3,
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_2.png"
-        },
-        {
-          "cardId": 4,
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_3.png"
-        },
-        {
-          "cardId": 5,
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_4.png"
-        }
-      ]
+      "text": "Добавьте данные о своем здоровье для получения персональных рекомендаций"
     },
     {
       "id": 2,
-      "title": "Рекомендации",
-      "body": "Персональные советы по улучшению Вашего здоровья",
-      "card": [
-        {
-          "cardId": 1,
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_2/image_0.png",
-          "title": "Допустим, героям были возданы соответствующие почести"
-        },
-        {
-          "cardId": 2,
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_2/image_1.png",
-          "title": "Коронованный герцог графства не стал ограничивающим фактором"
-        },
-        {
-          "cardId": 3,
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_2/image_2.png",
-          "title": "Обитатели Арктики"
-        }
-      ]
+      "title": "Настроение",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_0.png"
     },
     {
       "id": 3,
-      "title": "Прием лекарств",
-      "card": [
-        {
-          "carId": 1,
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_0.png"
-        },
-        {
-          "carId": 2,
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_1.png"
-        },
-        {
-          "carId": 2,
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_2.png"
-        },
-        {
-          "carId": 3,
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_3.png"
-        },
-        {
-          "carId": 4,
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png"
-        }
-      ]
+      "title": "Давление",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_1.png"
     },
     {
       "id": 4,
-      "title": "Новости",
-      "breadcrumb": [
-        "COVID-19",
-        "Санкт-Петербург",
-        "Россия",
-        "Ликбез",
-        "Мифы о здоровье",
-        "Диабет"
-      ],
-      "card": [
-        {
-          "carId": 1,
-          "title": "Убеждённость некоторых оппонентов процветает, как ни в чем не бывало",
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_0.png",
-          "data": "сегодня, 8:24"
-        },
-        {
-          "carId": 2,
-          "title": "Эксперты утверждают, что консультация с широким активом позволила расправить крылья",
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_1.png",
-          "data": "вчера, 19:47"
-        },
-        {
-          "carId":3,
-          "title": "Тяжёлое машиностроение - это вам не детский заливистый смех",
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_2.png",
-          "data": "12.05.2020, 22:15"
-        },
-        {
-          "carId": 4,
-          "title": "Заголовок",
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_3.png",
-          "data": "вчера, 19:47"
-        },
-        {
-          "carId": 5,
-          "title": "Заголовок",
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png",
-          "data": "вчера, 19:47"
-        },
-        {
-          "carId": 6,
-          "title": "Заголовок",
-          "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png",
-          "data": "вчера, 19:47"
-        }
-      ]
+      "title": "Физическая активность",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_2.png"
     },
     {
       "id": 5,
-      "title": "Образование",
-      "body": "Добавьте данные о своем здоровье для получения персональных рекомендаций",
-      "picture": ""
+      "title": "Пройти тест",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_3.png"
+    },
+    {
+      "id": 6,
+      "title": "Добавить своё",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_1/step_4.png"
+    }
+  ],
+  "recommends": [
+    {
+      "id": 1,
+      "title": "Рекомендации",
+      "body": "Персональные советы по улучшению Вашего здоровья"
+    },
+    {
+      "id": 2,
+      "title": "Допустим, героям были возданы соответствующие почести",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_2/image_0.png"
+    },
+    {
+      "id": 3,
+      "title": "Коронованный герцог графства не стал ограничивающим фактором",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_2/image_1.png"
+    },
+    {
+      "id": 3,
+      "title": "Обитатели Арктики",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_2/image_2.png"
+    }
+  ],
+  "Reception": [
+    {
+      "id": 1,
+      "title": "Прием лекарств"
+    },
+    {
+      "id": 1,
+      "title": "Лекарство",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_0.png"
+    },
+    {
+      "id": 2,
+      "title": "Лекарство",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_1.png"
+    },
+    {
+      "id": 3,
+      "title": "Лекарство",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_2.png"
+    },
+    {
+      "id": 4,
+      "title": "Лекарство",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_3.png"
+    },
+    {
+      "id": 5,
+      "title": "Лекарство",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "Новости"
+    },
+    {
+      "id": 2,
+      "title": "COVID-19"
+    },
+    {
+      "id": 3,
+      "title": "Санкт-Петербург"
+    },
+    {
+      "id": 4,
+      "title": "Россия"
+    },
+    {
+      "id": 5,
+      "title": "Ликбез"
+    },
+    {
+      "id": 6,
+      "title": "Мифы о здоровье"
+    },
+    {
+      "id": 7,
+      "title": "Диабет"
+    },
+    {
+      "id": 8,
+      "title": "Убеждённость некоторых оппонентов процветает, как ни в чем не бывало",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_0.png",
+      "data": "сегодня, 8:24"
+    },
+    {
+      "id": 9,
+      "title": "Эксперты утверждают, что консультация с широким активом позволила расправить крылья",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_1.png",
+      "data": "вчера, 19:47"
+    },
+    {
+      "id": 10,
+      "title": "Тяжёлое машиностроение - это вам не детский заливистый смех",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_2.png",
+      "data": "12.05.2020, 22:15"
+    },
+    {
+      "id": 11,
+      "title": "Заголовок",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_3.png",
+      "data": "вчера, 19:47"
+    },
+    {
+      "id": 12,
+      "title": "Заголовок",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png",
+      "data": "вчера, 19:47"
+    },
+    {
+      "id": 13,
+      "title": "Заголовок",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png",
+      "data": "вчера, 19:47"
     }
   ]
 }
