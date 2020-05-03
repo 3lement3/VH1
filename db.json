@@ -38,11 +38,11 @@
       "id": 3,
       "title": "Прием лекарств",
       "picture": [
-        "",
-        "",
-        "",
-        "",
-        ""
+        "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_0.png",
+        "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_1.png",
+        "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_2.png",
+        "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_3.png",
+        "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_4.png"
       ]
     },
     {
