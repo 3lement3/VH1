@@ -17,26 +17,28 @@
       "title": "Рекомендации",
       "body": "Персональные советы по улучшению Вашего здоровья",
       "picture": {
-
-    }
+        "0": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_2/image_0.png",
+        "title_0": "Допустим, героям были возданы соответствующие почести",
+        "1": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_2/image_1.png",
+        "title_1": "Коронованный герцог графства не стал ограничивающим фактором",
+        "2": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_2/image_2.png",
+        "title_2": "Обитатели Арктики"
+      }
     },
     {
       "id": 3,
       "title": "Прием лекарств",
       "body": "Добавьте данные о своем здоровье для получения персональных рекомендаций",
-      "picture":
     },
     {
       "id": 4,
       "title": "Новости",
       "body": "Добавьте данные о своем здоровье для получения персональных рекомендаций",
-      "picture":
     },
     {
       "id": 5,
       "title": "Образование",
       "body": "Добавьте данные о своем здоровье для получения персональных рекомендаций",
-      "picture":
     }
   ]
 }
