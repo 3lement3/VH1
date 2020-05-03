@@ -139,5 +139,31 @@
       "data": "03.05.2020, 12:00",
       "rubricId" : "id6"
     }
-  ]
+  ],
+  "rubric2": [
+    {
+      "id": 1,
+      "title": "COVID-19"
+    },
+    {
+      "id": 2,
+      "title": "ОРВИ"
+    },
+    {
+      "id": 3,
+      "title": "Диабет"
+    },
+    {
+      "id": 4,
+      "title": "Неврология"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "title": "Статистика COVID-19 в мире",
+      "picture": "https://raw.githubusercontent.com/3lement3/VH/master/src/posts_id_3/img_0.png",
+      "date": "03.05.2020, 12:00",
+      "rubricId" : "id1"
+    },
 }
